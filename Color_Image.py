@@ -35,7 +35,7 @@ def send_request(image):
         files={
             'image': image,
         },
-        headers={'api-key': '30ab770e-fd7f-4914-b0bd-8f095a6a8303'},
+        headers={'api-key': 'quickstart-QUdJIGlzIGNvbWluZy4uLi4K'},
     )
     return req
 
